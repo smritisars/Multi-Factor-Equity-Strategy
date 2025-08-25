@@ -5,6 +5,7 @@ Equity strategy that combines traditional Fama-French factors with  sentiment an
 - Time series econometrics
 - Optimization theory
 - Risk attribution methods
+
 | Phase                  | Task                                                        | Key Skills                               |
 |-------------------------|-------------------------------------------------------------|------------------------------------------|
 | Phase 1: Foundation     | Set up Python environment (pandas, numpy, yfinance, sklearn)| Python setup, package management         |
@@ -22,3 +23,4 @@ Equity strategy that combines traditional Fama-French factors with  sentiment an
 | Phase 5: Documentation  | Write comprehensive research report                         | Technical writing                        |
 | Phase 5: Documentation  | Create interactive visualizations and dashboards            | Data visualization                       |
 | Phase 5: Documentation  | Deploy project on GitHub with clear documentation           | Version control, documentation           |
+
